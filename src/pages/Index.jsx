@@ -53,7 +53,6 @@ const Index = () => {
           </ListItem>
         ))}
       </List>
-      <Footer />
     </VStack>
   );
 };
